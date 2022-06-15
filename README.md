@@ -3,6 +3,7 @@
 The designed Acqusition Function selects a batch of `N` samples as a random selection from `4*N` samples chosen by the basic acquisition functions described in the benchmark:
 `badge_acquisition`, `core_set_acquisition`, `kmeans_acquisition`, `top_uncertain_acquisition`.
 
+# GeneDisco ICLR-22 Challenge Starter Repository
 
 ![Python version](https://img.shields.io/badge/Python-3.8-blue)
 ![Library version](https://img.shields.io/badge/Version-1.0.0-blue)
