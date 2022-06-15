@@ -1,5 +1,9 @@
 # Source code of 2nd place solution in Maximize target discovery rate task (Task 1) GeneDisco ICLR-22 Challenge
 
+The designed Acqusition Function selects a batch of `N` samples as a random selection from `4*N` samples chosen by the basic acquisition functions described in the benchmark:
+`badge_acquisition`, `core_set_acquisition`, `kmeans_acquisition`, `top_uncertain_acquisition`.
+
+
 ![Python version](https://img.shields.io/badge/Python-3.8-blue)
 ![Library version](https://img.shields.io/badge/Version-1.0.0-blue)
 
@@ -214,6 +218,8 @@ Please consider citing, if you reference or use our methodology, code or results
 Arash Mehrjou, GlaxoSmithKline plc<br/>
 Jacob A. Sackett-Sanders, GlaxoSmithKline plc<br/>
 Patrick Schwab, GlaxoSmithKline plc<br/>
+
+Marcin Kowiel, MNM Bioscience <br/>
 
 ### Acknowledgements
 
