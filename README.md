@@ -1,4 +1,4 @@
-# GeneDisco ICLR-22 Challenge Starter Repository
+# Source code of 2nd place solution in Maximize target discovery rate task (Task 1) GeneDisco ICLR-22 Challenge
 
 ![Python version](https://img.shields.io/badge/Python-3.8-blue)
 ![Library version](https://img.shields.io/badge/Version-1.0.0-blue)
